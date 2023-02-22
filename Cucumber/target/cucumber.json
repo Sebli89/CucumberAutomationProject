@@ -1,0 +1,52 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-02-22T18:31:10.387Z",
+        "line": 5,
+        "name": "Sky Blue Background",
+        "description": "Given: \"Set SkyBlue Background\" button exists; \nWhen: I click on the button; \nThen: the background color will change to sky blue\n\n\nScenario 2",
+        "id": "techfios-practical-testing-page-functionality-validation;sky-blue-background",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@BGColor"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-22T18:31:10.551Z",
+        "line": 12,
+        "name": "White Background Change",
+        "description": "Given: \"Set SkyWhite Background\" button exists;\nWhen: I click on the button; \nThen: the background color will change to white",
+        "id": "techfios-practical-testing-page-functionality-validation;white-background-change",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@BGColor"
+          }
+        ]
+      }
+    ],
+    "name": "Techfios practical testing page functionality validation",
+    "description": "Scenario 1: ",
+    "id": "techfios-practical-testing-page-functionality-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/BGColor.feature",
+    "tags": [
+      {
+        "name": "@BGColor",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
